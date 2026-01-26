@@ -264,3 +264,5 @@ Android 14.0	Samsung Galaxy A54 (useat keskihintaluokan mallit ovat päivittynee
 Tilastot ovat peräisin StatCounter Global Stats – Android Version Market Share Finland (mobiili & tablet) -datalta, tuoreimpana tietona vuodelta 2025.
 
     (Lähde ChatGPT)
+
+    
