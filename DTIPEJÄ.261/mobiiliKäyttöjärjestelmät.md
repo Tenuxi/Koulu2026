@@ -98,7 +98,7 @@ Tämä Samsung-tabletti tulee Android-käyttöjärjestelmällä, joka on yleisin
 
 👉 Näillä esimerkeillä nähdään, että iPadOS on yksinomaan iPad-laitteissa, kun taas Androidia käytetään eri valmistajien tableteissa, kuten Samsungin Galaxy Tab -sarjassa.
 
-(Lähde ChatGPT)
+    (Lähde ChatGPT)
 
 
 5. Selvitä, mitkä ovat käytetyimmät puhelimien käyttöjärjestelmät suomessa ja maailmanlaajuisesti.
@@ -143,7 +143,7 @@ Suomi	    Android	        iOS
 Android ~72 % ja iOS ~28 % maailman mobiili-käyttöjärjestelmästä (2025).
 Android ~66,8 %, iOS ~32,7 % Suomessa (StatCounter data).
 
-(Lähde ChatGPT)
+    (Lähde ChatGPT)
 
 
 6. Mitkä ovat viisi käytetyintä selainta (browser) puhelimissa suomessa? Kerro niiden
@@ -199,7 +199,7 @@ Opera on saatavilla Android-laitteille ja joillakin käyttäjillä se on valittu
 
 Markkinaosuusluvut on saatu StatCounter Global Stats – Mobile & Tablet Browsers Finland -datasta, joka kertoo tuoreimmat mallit mobiiliselainmarkkinoista Suomessa (päivitetty joulukuu 2025).
 
-(Lähde ChatGPT)
+    (Lähde ChatGPT)
 
 
 7. Mitkä ovat tällä hetkellä Apple:n puhelimien ja tablettien kolme käytetyintä
@@ -228,7 +228,7 @@ Sijoitus	Käyttöjärjestelmäversio	    Osuus kaikista Apple-käyttöjärm. lai
 
 Tilastot perustuvat StatCounter Global Stats – Mobile & Tablet iOS Version Market Share Finland (2025) -dataan, joka näyttää iOS-käyttöjärjestelmäversioiden käyttöosuudet Suomen mobiili- ja tablettilaitteissa.
 
-(Lähde ChatGPT)
+    (Lähde ChatGPT)
 
 
 8. Mitkä ovat tällä hetkellä Android puhelimien ja tablettien kolme käytetyintä
@@ -263,4 +263,4 @@ Android 14.0	Samsung Galaxy A54 (useat keskihintaluokan mallit ovat päivittynee
 
 Tilastot ovat peräisin StatCounter Global Stats – Android Version Market Share Finland (mobiili & tablet) -datalta, tuoreimpana tietona vuodelta 2025.
 
-(Lähde ChatGPT)
+    (Lähde ChatGPT)
