@@ -1,5 +1,6 @@
 Mobiliikäyttöjärjestelmätehtävä
 
+
 1. Kerro 4 tyypillisintä päätelaitetyyppiä työpaikoilla ja kouluissa?
     - Puhelin
     - Tabletti
@@ -33,6 +34,7 @@ käyttöjärjestelmänä.
 e) Mikä on uusin Android-versio nimeltään?
     - Android 16 (Baklava)
 
+
 3. Etsi tietoa internetistä ja koeta vastata seuraaviin Applen mobiilikäyttöjärjestelmään koskeviin
 kysymyksiin:
 
@@ -58,6 +60,7 @@ d) Pääseekö iCloudiin muista laitteista kuin omasta iPhonesta ja jos niin mit
 Voit kuunnella kaikki Android ja iPhone videot, jos haluat, ja suorittaa näin nämä kaksi online-
 kurssia.
 Seuraavassakin tehtävässä etsi tietoa internetistä esim. käyttäen gs.statcounter.com-sivustoa:
+
 
 4. Selvitä, mitkä ovat käytetyimmät tablettien käyttöjärjestelmät (Operating System) suomessa ja
 maailmanlaajuisesti. Kerro lähde.
@@ -95,9 +98,14 @@ Tämä Samsung-tabletti tulee Android-käyttöjärjestelmällä, joka on yleisin
 
 👉 Näillä esimerkeillä nähdään, että iPadOS on yksinomaan iPad-laitteissa, kun taas Androidia käytetään eri valmistajien tableteissa, kuten Samsungin Galaxy Tab -sarjassa.
 
+(Lähde ChatGPT)
+
+
 5. Selvitä, mitkä ovat käytetyimmät puhelimien käyttöjärjestelmät suomessa ja maailmanlaajuisesti.
 Kerro esimerkkeinä, missä puhelintuotteissa käytetään näitä käyttöjärjestelmiä. Yksi puhelinmalli
 per käyttöjärjestelmä riittää. Kerro lähde.
+
+
 6. Mitkä ovat viisi käytetyintä selainta (browser) puhelimissa suomessa? Kerro niiden
 markkinaosuudet. Missä puhelintuotteissa niitä käytetään? Yksi puhelinmalli / selain riittää. kerro
 lähde.
